@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- ===================== -->
+<!-- 🎥 HERO VIDEO / GIF -->
+<!-- ===================== -->
 
-<!--
-**MINJOOOONG/MINJOOOONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- 👉 여기에 서비스 영상 GIF 주소 넣기 -->
+  <img src="https://user-images.githubusercontent.com/00000000/your-gif-url.gif" width="800" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">안녕하세요 👋</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=22&
+    pause=1000&
+    color=F58FA0&
+    center=true&
+    vCenter=true&
+    width=700&
+    lines=안녕하세요+도전과+재미를+사랑하는+개발자+서민주입니다;AI+시대에+QA를+곁들인+꼼꼼하고+독창적인+개발자입니다" 
+  />
+</p>
+
+---
+
+## 🌱 About Me
+
+- 🎓 **한국외국어대학교 정보통신공학 전공**
+- 🧪 AI 시대에 **QA 시각을 곁들인** 개발자
+- 🔍 “이 기능은 왜 이렇게 동작할까?”를 자주 고민합니다
+- 🎨 감성적인 UI와 직관적인 UX를 좋아합니다
+- 🚀 아이디어를 **기획 → 구현 → 배포**까지 완주하는 것을 중요하게 생각합니다
+
+---
+
+## 🚀 Featured Project
+
+### 📚 Minjoo’s Shelf
+> 독서 성향 테스트 기반 책 추천 웹 애플리케이션
+
+- 🧪 간단한 테스트를 통한 독서 유형 분석
+- 📚 유형별 책 추천
+- 🔊 TTS(Text-to-Speech) 결과 안내 UX
+- 🛒 교보문고 / 알라딘 / YES24 구매 연동
+- ☁️ Vercel 배포
+
+🔗 Service  
+https://minjooshelf.vercel.app/
+
+📦 Repository  
+https://github.com/MINJOOOONG/Minjoo-s-shelf
+
+---
+
+## 🧠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MINJOOOONG&show_icons=true&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINJOOOONG&layout=compact&theme=rose_pine" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  🌸 꼼꼼함과 호기심을 무기로 성장 중입니다 🌸
+</p>
