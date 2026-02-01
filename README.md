@@ -10,11 +10,15 @@
 
 
 <div align="center">
-<img
-  src="https://render.gitanimals.org/farms/discphy"
-  width="600"
-  height="300"
-/>
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MINJOOOONG&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/MINJOOOONG"
+      width="420"
+      height="220"
+      alt="Personal Gitanimals"
+    />
+  </a>
 </div>
 
 
