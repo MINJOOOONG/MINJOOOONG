@@ -71,26 +71,6 @@
 - 🎨 감성적인 UI와 직관적인 UX를 좋아합니다
 - 🚀 아이디어를 **기획 → 구현 → 배포**까지 완주하는 것을 중요하게 생각합니다
 
----
-
-## 🚀 Featured Project
-
-### 📚 Minjoo’s Shelf
-> 독서 성향 테스트 기반 책 추천 웹 애플리케이션
-
-- 🧪 간단한 테스트를 통한 독서 유형 분석
-- 📚 유형별 책 추천
-- 🔊 TTS(Text-to-Speech) 결과 안내 UX
-- 🛒 교보문고 / 알라딘 / YES24 구매 연동
-- ☁️ Vercel 배포
-
-🔗 Service  
-https://minjooshelf.vercel.app/
-
-📦 Repository  
-https://github.com/MINJOOOONG/Minjoo-s-shelf
-
----
 
 ## 🧠 Tech Stack
 
