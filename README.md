@@ -28,14 +28,15 @@
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MINJOOOONG&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/MINJOOOONG"
-      width="420"
-      height="220"
+<img
+  src="https://render.gitanimals.org/farms/MINJOOOONG"
+      width="620"
+      height="420"
       alt="Personal Gitanimals"
     />
   </a>
 </div>
+
 
 <br>
 
